@@ -6,7 +6,7 @@ value paramter for the size, reference parameter to store the index, and a refer
 passed to find the largest value and it's index position and return them to the calling function to be printed. Note: You will need to use function overloading with function 
 signatures to handle char arrays, string arrays, integer arrays, and double arrays. 
 
-## Example Array to be Processed
+## Example Arrays to be Processed
 <pre>double fpData[] = {76.25, 85.45, -45.90, 99.34,-44.12, 45.75, 57.77, 108.45, 65.64, 77.21, -24, 62};
 int intData[] = {35, 45, 55, 20, 30, 50};
 string stringData[] = {"Apple", "apple1", "apple10", "apples", "apple", "1apple"};
